@@ -1,1 +1,1 @@
-# math-website
+# maths-website
